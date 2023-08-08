@@ -51,6 +51,7 @@ http://localhost:3001/api/tags/?id_number
 {
 		"tag_name": "eye wear",
 }
+
 DELETE
 
 http://localhost:3001/api/tags/?id_number

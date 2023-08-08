@@ -42,7 +42,7 @@ POST
 
 http://localhost:3001/api/tags
 {
-		"tag_name": "glasses",
+		"tag_name": "glasses"
 }
 
 PUT

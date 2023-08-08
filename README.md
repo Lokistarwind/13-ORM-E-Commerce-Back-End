@@ -29,21 +29,30 @@ Now you can run the project by typing
 node server
 Doing so will start the application.
 You can run the functions inside insomnia such as 
+
 GET
+
 http://localhost:3001/api/tags
+
 GET
+
 http://localhost:3001/api/tags/1
+
 POST
+
 http://localhost:3001/api/tags
 {
 		"tag_name": "glasses",
 }
+
 PUT
+
 http://localhost:3001/api/tags/?id_number
 {
 		"tag_name": "eye wear",
 }
 DELETE
+
 http://localhost:3001/api/tags/?id_number
 
 For a detailed look see this video demonstration.
